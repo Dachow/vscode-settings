@@ -14,5 +14,5 @@
 
 
     // default mode(vimStyle)
-    "vimStyle.defaultMode": "normal",
+    "vimStyle.defaultMode": "insert"
 }
