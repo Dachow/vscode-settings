@@ -1,2 +1,4 @@
-Uploaded Successfully. GIST ID : 273a526f22fabc6171a1dfa30b937457 . Please copy and use this ID in other machines to sync all settings.
-Personal access tokens : a9c8a8e2ff627b44cdc64d5a3b884e6b3b5ec784
+Personal access tokens : 852d283e891b4c108987cb817a9e43109266727c
+
+GIST ID : 8ea8657506a94d1069aa13ce31de7525
+GIST ID : 181d1511b483ffae18c1099593d96d0a
