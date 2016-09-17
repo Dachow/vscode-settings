@@ -12,6 +12,9 @@
     // 控制是否将代码段与其他建议一起显示以及它们的排序方式。
     "editor.snippetSuggestions": "top",
 
+    // 以新行结束。
+    "html.format.endWithNewline": true,
+
 
     // default mode(vimStyle)
     "vimStyle.defaultMode": "insert"
